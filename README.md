@@ -1,1 +1,3 @@
-![](https://camo.githubusercontent.com/4f4a97e4ecaa3e312c6cc3f2125f5779f93275cdef923e9d662f82bf9d52cf51/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f77616b6174696d653f757365726e616d653d446f776e266c61796f75743d636f6d7061637426637573746f6d5f7469746c653d4d792532305765656b26686964655f626f726465723d74727565)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=travkame&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=travkame&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=travkame&theme=2077)
